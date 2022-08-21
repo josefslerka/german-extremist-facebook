@@ -1,0 +1,1044 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2022-08-21">
+    <creator>Gephi 0.9.3</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="v_name" title="name" type="string"/>
+      <attribute id="v_shares" title="shares" type="double"/>
+      <attribute id="v_coord.shares" title="coord.shares" type="double"/>
+      <attribute id="v_account.avg.subscribercount" title="account.avg.subscriberCount" type="double"/>
+      <attribute id="v_account.platform" title="account.platform" type="string"/>
+      <attribute id="v_account.name" title="account.name" type="string"/>
+      <attribute id="v_account.platformid" title="account.platformId" type="string"/>
+      <attribute id="v_name.changed" title="name.changed" type="boolean"/>
+      <attribute id="v_account.handle" title="account.handle" type="string"/>
+      <attribute id="v_handle.changed" title="handle.changed" type="boolean"/>
+      <attribute id="v_account.verified" title="account.verified" type="boolean"/>
+      <attribute id="v_pageadmintopcountry.changed" title="pageAdminTopCountry.changed" type="boolean"/>
+      <attribute id="v_account.pageadmintopcountry" title="account.pageAdminTopCountry" type="string"/>
+      <attribute id="v_account.accounttype" title="account.accountType" type="string"/>
+      <attribute id="v_account.pagecreateddate" title="account.pageCreatedDate" type="string"/>
+      <attribute id="v_account.pagedescription" title="account.pageDescription" type="string"/>
+      <attribute id="v_account.pagedescription.changed" title="account.pageDescription.changed" type="boolean"/>
+      <attribute id="v_account.pagecategory" title="account.pageCategory" type="string"/>
+      <attribute id="v_account.pagecategory.changed" title="account.pageCategory.changed" type="boolean"/>
+      <attribute id="v_degree" title="degree" type="double"/>
+      <attribute id="v_component" title="component" type="double"/>
+      <attribute id="v_cluster" title="cluster" type="double"/>
+      <attribute id="v_strength" title="strength" type="double"/>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="n0" label="„Frieden Total“-Gruppe">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1623674711048032"/>
+          <attvalue for="v_shares" value="65.0"/>
+          <attvalue for="v_coord.shares" value="49.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="1019.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="„Frieden Total“-Gruppe"/>
+          <attvalue for="v_account.platformid" value="1623674711048032"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="12.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="155.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="4.802014"/>
+        <viz:position x="-291.07098" y="11.971101"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n1" label="Friedenswerkstatt Hamburg">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/1496447467288144"/>
+          <attvalue for="v_shares" value="104.0"/>
+          <attvalue for="v_coord.shares" value="57.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="3658.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Friedenswerkstatt Hamburg"/>
+          <attvalue for="v_account.platformid" value="1496447467288144"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="12.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="166.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="7.312707"/>
+        <viz:position x="-430.31256" y="-82.04139"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n2" label="Nachdenkseiten - die kritische Website">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/87982131139"/>
+          <attvalue for="v_shares" value="91.0"/>
+          <attvalue for="v_coord.shares" value="62.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="2426.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Nachdenkseiten - die kritische Website"/>
+          <attvalue for="v_account.platformid" value="87982131139"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="12.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="181.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="6.140606"/>
+        <viz:position x="-188.2097" y="130.89706"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n3" label="Friday against despotism">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/971124363370772"/>
+          <attvalue for="v_shares" value="40.0"/>
+          <attvalue for="v_coord.shares" value="32.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="1411.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Friday against despotism"/>
+          <attvalue for="v_account.platformid" value="971124363370772"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="7.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="2.0"/>
+          <attvalue for="v_strength" value="104.0"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="5.174955"/>
+        <viz:position x="169.01665" y="-151.88637"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="n4" label="Meinungsfreiheit">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/484584118388148"/>
+          <attvalue for="v_shares" value="44.0"/>
+          <attvalue for="v_coord.shares" value="42.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="1586.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Meinungsfreiheit"/>
+          <attvalue for="v_account.platformid" value="484584118388148"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="9.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="2.0"/>
+          <attvalue for="v_strength" value="135.0"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="5.3414464"/>
+        <viz:position x="884.4376" y="-275.781"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="n5" label="Völker dieser Welt erheben sich !!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/891481577571738"/>
+          <attvalue for="v_shares" value="71.0"/>
+          <attvalue for="v_coord.shares" value="42.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="19051.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Völker dieser Welt erheben sich !!"/>
+          <attvalue for="v_account.platformid" value="891481577571738"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="11.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="2.0"/>
+          <attvalue for="v_strength" value="123.0"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="21.957306"/>
+        <viz:position x="716.3647" y="20.541323"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="n6" label="Wir sind die Welt!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/383754911771540"/>
+          <attvalue for="v_shares" value="41.0"/>
+          <attvalue for="v_coord.shares" value="35.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="2167.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Wir sind die Welt!"/>
+          <attvalue for="v_account.platformid" value="383754911771540"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="6.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="2.0"/>
+          <attvalue for="v_strength" value="114.0"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="5.8941984"/>
+        <viz:position x="792.30646" y="-89.49436"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="n7" label="Steinmeier ist NICHT UNSER Präsident!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/330451426992285"/>
+          <attvalue for="v_shares" value="14.0"/>
+          <attvalue for="v_coord.shares" value="10.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="10274.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Steinmeier ist NICHT UNSER Präsident!"/>
+          <attvalue for="v_account.platformid" value="330451426992285"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="3.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="3.0"/>
+          <attvalue for="v_strength" value="10.0"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="13.60704"/>
+        <viz:position x="-953.12573" y="-143.32483"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="n8" label="FREIE PRESSE">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/536314339729688"/>
+          <attvalue for="v_shares" value="38.0"/>
+          <attvalue for="v_coord.shares" value="35.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="12384.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="FREIE PRESSE"/>
+          <attvalue for="v_account.platformid" value="536314339729688"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="9.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="2.0"/>
+          <attvalue for="v_strength" value="114.0"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="15.614452"/>
+        <viz:position x="264.35135" y="-49.143353"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="n9" label="Wir wissen Bescheid!!!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1116853328832368"/>
+          <attvalue for="v_shares" value="24.0"/>
+          <attvalue for="v_coord.shares" value="22.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="864.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Wir wissen Bescheid!!!"/>
+          <attvalue for="v_account.platformid" value="1116853328832368"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="4.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="79.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="4.6545496"/>
+        <viz:position x="-1034.5786" y="68.414375"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n10" label="Ich misstraue der Regierung!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/2833260833587489"/>
+          <attvalue for="v_shares" value="41.0"/>
+          <attvalue for="v_coord.shares" value="29.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="20319.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Ich misstraue der Regierung!"/>
+          <attvalue for="v_account.platformid" value="2833260833587489"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="5.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="82.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="23.163656"/>
+        <viz:position x="-1130.8053" y="-12.476596"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n11" label="SPD Friedensbewegung">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1960202997543723"/>
+          <attvalue for="v_shares" value="23.0"/>
+          <attvalue for="v_coord.shares" value="15.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="487.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="SPD Friedensbewegung"/>
+          <attvalue for="v_account.platformid" value="1960202997543723"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="6.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="47.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="4.2958794"/>
+        <viz:position x="151.04466" y="271.46844"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n12" label="WORLD PEACE NETWORK - GLOBAL ACTION AGAINST NATO IMPERIALISM">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/321400271210048"/>
+          <attvalue for="v_shares" value="21.0"/>
+          <attvalue for="v_coord.shares" value="11.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="6471.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="WORLD PEACE NETWORK - GLOBAL ACTION AGAINST NATO IMPERIALISM"/>
+          <attvalue for="v_account.platformid" value="321400271210048"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="4.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="26.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="9.98894"/>
+        <viz:position x="1169.9901" y="75.590996"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n13" label="Mund auf trotz Mundschutz">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/259166928567918"/>
+          <attvalue for="v_shares" value="13.0"/>
+          <attvalue for="v_coord.shares" value="6.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="1577.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Mund auf trotz Mundschutz"/>
+          <attvalue for="v_account.platformid" value="259166928567918"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="1.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="3.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="5.332884"/>
+        <viz:position x="-807.362" y="266.78766"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n14" label="KenFM NUR für Systemkritiker ADMINS alle GEKAUFT  VON BILD UND CO">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/746994185339345"/>
+          <attvalue for="v_shares" value="26.0"/>
+          <attvalue for="v_coord.shares" value="5.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="5620.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="KenFM NUR für Systemkritiker ADMINS alle GEKAUFT  VON BILD UND CO"/>
+          <attvalue for="v_account.platformid" value="746994185339345"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="1.0"/>
+          <attvalue for="v_component" value="2.0"/>
+          <attvalue for="v_cluster" value="4.0"/>
+          <attvalue for="v_strength" value="3.0"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="9.179316"/>
+        <viz:position x="-1839.2042" y="193.29958"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="n15" label="SCHLUSS MIT DEN CORONAMASSNAHMEN">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/217449093428670"/>
+          <attvalue for="v_shares" value="8.0"/>
+          <attvalue for="v_coord.shares" value="7.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="1229.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="SCHLUSS MIT DEN CORONAMASSNAHMEN"/>
+          <attvalue for="v_account.platformid" value="217449093428670"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="4.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="5.0"/>
+          <attvalue for="v_strength" value="13.0"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="5.0018034"/>
+        <viz:position x="601.77277" y="404.05206"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="n16" label="AfD 51% - das ist unser Ziel !!!🖤❤️💛">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/499584033992191"/>
+          <attvalue for="v_shares" value="7.0"/>
+          <attvalue for="v_coord.shares" value="4.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="3050.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="AfD 51% - das ist unser Ziel !!!🖤❤️💛"/>
+          <attvalue for="v_account.platformid" value="499584033992191"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="1.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="5.0"/>
+          <attvalue for="v_strength" value="4.0"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="6.734267"/>
+        <viz:position x="256.62317" y="517.0988"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="n17" label="Hirschhorn direkt">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/325652220928387"/>
+          <attvalue for="v_shares" value="25.0"/>
+          <attvalue for="v_coord.shares" value="23.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="284.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Hirschhorn direkt"/>
+          <attvalue for="v_account.platformid" value="325652220928387"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="Hirschhorn.direkt"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_page"/>
+          <attvalue for="v_account.pagecreateddate" value="2014-08-21 13:59:27"/>
+          <attvalue for="v_account.pagedescription" value="Nicht nur die 'große Politik' und das 'Weltgeschehen', nein auch die 'Gemeinschaft' um uns herum sollten wir nicht aus den Augen verlieren."/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="COMMUNITY"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="10.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="3.0"/>
+          <attvalue for="v_strength" value="55.0"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="4.102749"/>
+        <viz:position x="411.71603" y="-213.13342"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="n18" label="Fakten, die nicht in der Blöd-Zeitung stehen">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/442628482446580"/>
+          <attvalue for="v_shares" value="25.0"/>
+          <attvalue for="v_coord.shares" value="22.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="3577.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Fakten, die nicht in der Blöd-Zeitung stehen"/>
+          <attvalue for="v_account.platformid" value="442628482446580"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="FaktenUndWahrheiten"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="DE"/>
+          <attvalue for="v_account.accounttype" value="facebook_page"/>
+          <attvalue for="v_account.pagecreateddate" value="2012-09-08 12:12:47"/>
+          <attvalue for="v_account.pagedescription" value="„Scientia et potentia humana in idem coincidunt, quia ignoratio causae destituit effectum“  „Wissen und Macht des Menschen fallen zusammen, weil Unkenntnis der Ursache über deren Wirkung täuscht“  (Francis Bacon)"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="BLOGGER"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="5.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="3.0"/>
+          <attvalue for="v_strength" value="37.0"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="7.235645"/>
+        <viz:position x="-384.80585" y="-276.4047"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="n19" label="Glaub nicht alles!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/565870666897595"/>
+          <attvalue for="v_shares" value="51.0"/>
+          <attvalue for="v_coord.shares" value="8.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="64600.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Glaub nicht alles!"/>
+          <attvalue for="v_account.platformid" value="565870666897595"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="1.0"/>
+          <attvalue for="v_component" value="2.0"/>
+          <attvalue for="v_cluster" value="4.0"/>
+          <attvalue for="v_strength" value="3.0"/>
+          <attvalue for="modularity_class" value="2"/>
+        </attvalues>
+        <viz:size value="65.29173"/>
+        <viz:position x="-343.24594" y="208.20648"/>
+        <viz:color r="46" g="144" b="114"/>
+      </node>
+      <node id="n20" label="Deutsche Freiheit">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1006954359687336"/>
+          <attvalue for="v_shares" value="8.0"/>
+          <attvalue for="v_coord.shares" value="3.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="734.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Deutsche Freiheit"/>
+          <attvalue for="v_account.platformid" value="1006954359687336"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="3.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="5.0"/>
+          <attvalue for="v_strength" value="9.0"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="4.5308704"/>
+        <viz:position x="698.2275" y="186.23639"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="n21" label="Diskussionen zwei !! Deutschland vernetzt sich">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/323092308919839"/>
+          <attvalue for="v_shares" value="8.0"/>
+          <attvalue for="v_coord.shares" value="7.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="2694.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Diskussionen zwei !! Deutschland vernetzt sich"/>
+          <attvalue for="v_account.platformid" value="323092308919839"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="1.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="2.0"/>
+          <attvalue for="v_strength" value="5.0"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="6.395576"/>
+        <viz:position x="1298.3812" y="-34.508602"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="n22" label="STOPPT Markus Söder (Offizielle Seite)">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/259254792324735"/>
+          <attvalue for="v_shares" value="11.0"/>
+          <attvalue for="v_coord.shares" value="3.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="3829.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="STOPPT Markus Söder (Offizielle Seite)"/>
+          <attvalue for="v_account.platformid" value="259254792324735"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="3.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="5.0"/>
+          <attvalue for="v_strength" value="9.0"/>
+          <attvalue for="modularity_class" value="3"/>
+        </attvalues>
+        <viz:size value="7.475393"/>
+        <viz:position x="1131.1527" y="341.56345"/>
+        <viz:color r="234" g="134" b="21"/>
+      </node>
+      <node id="n23" label="Vive la verité - Es lebe die Wahrheit - #OnNeLâcheRien">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/532687441089357"/>
+          <attvalue for="v_shares" value="4.0"/>
+          <attvalue for="v_coord.shares" value="4.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="183.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Vive la verité - Es lebe die Wahrheit - #OnNeLâcheRien"/>
+          <attvalue for="v_account.platformid" value="532687441089357"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="1.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="3.0"/>
+          <attvalue for="v_strength" value="4.0"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="4.0066595"/>
+        <viz:position x="-999.18524" y="-213.22981"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="n24" label="NachDenkSeiten">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/215636828626"/>
+          <attvalue for="v_shares" value="167.0"/>
+          <attvalue for="v_coord.shares" value="10.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="101082.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="NachDenkSeiten"/>
+          <attvalue for="v_account.platformid" value="215636828626"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NachDenkSeiten"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="true"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="DE"/>
+          <attvalue for="v_account.accounttype" value="facebook_page"/>
+          <attvalue for="v_account.pagecreateddate" value="2009-12-02 13:42:05"/>
+          <attvalue for="v_account.pagedescription" value="NachDenkSeiten - Die kritische Website"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="NEWS_SITE"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="3.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="6.0"/>
+          <attvalue for="v_strength" value="16.0"/>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="100.0"/>
+        <viz:position x="601.03345" y="-408.8228"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="n25" label="Manfred Kleine-Hartlage">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/254051084695517"/>
+          <attvalue for="v_shares" value="157.0"/>
+          <attvalue for="v_coord.shares" value="10.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="176.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Manfred Kleine-Hartlage"/>
+          <attvalue for="v_account.platformid" value="254051084695517"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="ManfredKleineHartlage"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_page"/>
+          <attvalue for="v_account.pagecreateddate" value="2012-06-13 00:11:39"/>
+          <attvalue for="v_account.pagedescription" value="Manfred Kleine-Hartlage, Diplom-Sozialwissenschaftler in der Fachrichtung Politische Wissenschaft (Gerhard-Mercator-Universität Duisburg 1996).&#xa;&#xa;Autor von&#xa;&#xa;&quot;Das Dschihadsystem. Wie der Islam funktioniert&quot; (Resch-Verlag Gräfelfing 2010)&#xa;und&#xa;&quot;Neue Weltordnung - Zukunftsplan oder Verschwörungstheorie&quot; (Edition Antaios Schnellroda 2011)&#xa;&#xa;Mitherausgeber von&#xa;&#xa;Fjordman: “Europa verteidigen” (Edition Antaios Schnellroda 2011)&#xa;&#xa;Bloggt regelmäßig in &#xa;Korrektheiten (korrektheiten.com) und&#xa;Sezession im Netz (sezession.de)&#xa;&#xa;Schreibt regelmäßig für die &quot;Sezession&quot; und die &quot;Junge Freiheit&quot;."/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="MOVIE_WRITER"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="3.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="6.0"/>
+          <attvalue for="v_strength" value="16.0"/>
+          <attvalue for="modularity_class" value="5"/>
+        </attvalues>
+        <viz:size value="4.0"/>
+        <viz:position x="451.42685" y="-346.28363"/>
+        <viz:color r="255" g="92" b="129"/>
+      </node>
+      <node id="n26" label="Globale Freiheit">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/530080904101059"/>
+          <attvalue for="v_shares" value="6.0"/>
+          <attvalue for="v_coord.shares" value="5.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="2743.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Globale Freiheit"/>
+          <attvalue for="v_account.platformid" value="530080904101059"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="1.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="2.0"/>
+          <attvalue for="v_strength" value="3.0"/>
+          <attvalue for="modularity_class" value="1"/>
+        </attvalues>
+        <viz:size value="6.442194"/>
+        <viz:position x="133.89609" y="-463.7082"/>
+        <viz:color r="95" g="198" b="19"/>
+      </node>
+      <node id="n27" label="qpress.de • die 4/2 Wahrheiten">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/334283036592123"/>
+          <attvalue for="v_shares" value="4.0"/>
+          <attvalue for="v_coord.shares" value="3.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="6410.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="qpress.de • die 4/2 Wahrheiten"/>
+          <attvalue for="v_account.platformid" value="334283036592123"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="qpress.de"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="DE"/>
+          <attvalue for="v_account.accounttype" value="facebook_page"/>
+          <attvalue for="v_account.pagecreateddate" value="2012-01-25 00:03:51"/>
+          <attvalue for="v_account.pagedescription" value="Aktuelle Themen aus Gesellschaft und Politik, nur eben nicht so wie man es für gewöhnlich kennt. Im Internet: https://qpress.de ••• oder „qpress Abo-Solo“ hier: www.facebook.com/lists/291730547605289"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="NEWS_SITE"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="2.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="3.0"/>
+          <attvalue for="v_strength" value="6.0"/>
+          <attvalue for="modularity_class" value="4"/>
+        </attvalues>
+        <viz:size value="9.930906"/>
+        <viz:position x="-432.82028" y="-380.26132"/>
+        <viz:color r="0" g="202" b="255"/>
+      </node>
+      <node id="n28" label="FRIEDLICHER WIDERSTAND IN FRANKFURT! JEDEN MONTAG!">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/450662805065603"/>
+          <attvalue for="v_shares" value="22.0"/>
+          <attvalue for="v_coord.shares" value="11.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="1248.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="FRIEDLICHER WIDERSTAND IN FRANKFURT! JEDEN MONTAG!"/>
+          <attvalue for="v_account.platformid" value="450662805065603"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="3.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="27.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="5.01988"/>
+        <viz:position x="-497.56393" y="459.30197"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+      <node id="n29" label="Offenes Friedensforum bei UMEHR e.V.">
+        <attvalues>
+          <attvalue for="v_name" value="https://www.facebook.com/groups/1603099799702060"/>
+          <attvalue for="v_shares" value="11.0"/>
+          <attvalue for="v_coord.shares" value="9.0"/>
+          <attvalue for="v_account.avg.subscribercount" value="776.0"/>
+          <attvalue for="v_account.platform" value="Facebook"/>
+          <attvalue for="v_account.name" value="Offenes Friedensforum bei UMEHR e.V."/>
+          <attvalue for="v_account.platformid" value="1603099799702060"/>
+          <attvalue for="v_name.changed" value="false"/>
+          <attvalue for="v_account.handle" value="NA"/>
+          <attvalue for="v_handle.changed" value="false"/>
+          <attvalue for="v_account.verified" value="false"/>
+          <attvalue for="v_pageadmintopcountry.changed" value="false"/>
+          <attvalue for="v_account.pageadmintopcountry" value="NA"/>
+          <attvalue for="v_account.accounttype" value="facebook_group"/>
+          <attvalue for="v_account.pagecreateddate" value="NA"/>
+          <attvalue for="v_account.pagedescription" value="NA"/>
+          <attvalue for="v_account.pagedescription.changed" value="false"/>
+          <attvalue for="v_account.pagecategory" value="none"/>
+          <attvalue for="v_account.pagecategory.changed" value="false"/>
+          <attvalue for="v_degree" value="3.0"/>
+          <attvalue for="v_component" value="1.0"/>
+          <attvalue for="v_cluster" value="1.0"/>
+          <attvalue for="v_strength" value="27.0"/>
+          <attvalue for="modularity_class" value="0"/>
+        </attvalues>
+        <viz:size value="4.5708284"/>
+        <viz:position x="-497.59573" y="334.8827"/>
+        <viz:color r="198" g="134" b="233"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="n0" target="n1" weight="43.0"/>
+      <edge id="1" source="n0" target="n2" weight="45.0"/>
+      <edge id="2" source="n0" target="n9" weight="19.0"/>
+      <edge id="3" source="n0" target="n10" weight="19.0"/>
+      <edge id="4" source="n0" target="n11" weight="5.0"/>
+      <edge id="5" source="n0" target="n12" weight="5.0"/>
+      <edge id="6" source="n0" target="n17" weight="4.0"/>
+      <edge id="7" source="n0" target="n18" weight="3.0"/>
+      <edge id="8" source="n0" target="n3" weight="3.0"/>
+      <edge id="9" source="n0" target="n4" weight="3.0"/>
+      <edge id="10" source="n0" target="n5" weight="3.0"/>
+      <edge id="11" source="n0" target="n8" weight="3.0"/>
+      <edge id="12" source="n1" target="n2" weight="46.0"/>
+      <edge id="13" source="n1" target="n9" weight="19.0"/>
+      <edge id="14" source="n1" target="n10" weight="19.0"/>
+      <edge id="15" source="n1" target="n11" weight="5.0"/>
+      <edge id="16" source="n1" target="n12" weight="11.0"/>
+      <edge id="17" source="n1" target="n17" weight="6.0"/>
+      <edge id="18" source="n1" target="n18" weight="5.0"/>
+      <edge id="19" source="n1" target="n3" weight="3.0"/>
+      <edge id="20" source="n1" target="n4" weight="3.0"/>
+      <edge id="21" source="n1" target="n5" weight="3.0"/>
+      <edge id="22" source="n1" target="n8" weight="3.0"/>
+      <edge id="23" source="n2" target="n9" weight="19.0"/>
+      <edge id="24" source="n2" target="n10" weight="19.0"/>
+      <edge id="25" source="n2" target="n11" weight="14.0"/>
+      <edge id="26" source="n2" target="n12" weight="5.0"/>
+      <edge id="27" source="n2" target="n17" weight="5.0"/>
+      <edge id="28" source="n2" target="n18" weight="4.0"/>
+      <edge id="29" source="n2" target="n8" weight="3.0"/>
+      <edge id="30" source="n2" target="n28" weight="9.0"/>
+      <edge id="31" source="n2" target="n29" weight="9.0"/>
+      <edge id="32" source="n2" target="n13" weight="3.0"/>
+      <edge id="33" source="n3" target="n4" weight="30.0"/>
+      <edge id="34" source="n3" target="n5" weight="20.0"/>
+      <edge id="35" source="n3" target="n6" weight="23.0"/>
+      <edge id="36" source="n3" target="n8" weight="22.0"/>
+      <edge id="37" source="n3" target="n17" weight="3.0"/>
+      <edge id="38" source="n4" target="n5" weight="30.0"/>
+      <edge id="39" source="n4" target="n6" weight="32.0"/>
+      <edge id="40" source="n4" target="n8" weight="28.0"/>
+      <edge id="41" source="n4" target="n17" weight="3.0"/>
+      <edge id="42" source="n4" target="n24" weight="3.0"/>
+      <edge id="43" source="n4" target="n25" weight="3.0"/>
+      <edge id="44" source="n5" target="n6" weight="27.0"/>
+      <edge id="45" source="n5" target="n8" weight="23.0"/>
+      <edge id="46" source="n5" target="n15" weight="3.0"/>
+      <edge id="47" source="n5" target="n20" weight="3.0"/>
+      <edge id="48" source="n5" target="n21" weight="5.0"/>
+      <edge id="49" source="n5" target="n22" weight="3.0"/>
+      <edge id="50" source="n5" target="n17" weight="3.0"/>
+      <edge id="51" source="n6" target="n8" weight="26.0"/>
+      <edge id="52" source="n6" target="n24" weight="3.0"/>
+      <edge id="53" source="n6" target="n25" weight="3.0"/>
+      <edge id="54" source="n7" target="n10" weight="3.0"/>
+      <edge id="55" source="n7" target="n23" weight="4.0"/>
+      <edge id="56" source="n7" target="n17" weight="3.0"/>
+      <edge id="57" source="n8" target="n17" weight="3.0"/>
+      <edge id="58" source="n8" target="n26" weight="3.0"/>
+      <edge id="59" source="n9" target="n10" weight="22.0"/>
+      <edge id="60" source="n11" target="n12" weight="5.0"/>
+      <edge id="61" source="n11" target="n28" weight="9.0"/>
+      <edge id="62" source="n11" target="n29" weight="9.0"/>
+      <edge id="63" source="n14" target="n19" weight="3.0"/>
+      <edge id="64" source="n15" target="n16" weight="4.0"/>
+      <edge id="65" source="n15" target="n20" weight="3.0"/>
+      <edge id="66" source="n15" target="n22" weight="3.0"/>
+      <edge id="67" source="n17" target="n18" weight="22.0"/>
+      <edge id="68" source="n17" target="n27" weight="3.0"/>
+      <edge id="69" source="n18" target="n27" weight="3.0"/>
+      <edge id="70" source="n20" target="n22" weight="3.0"/>
+      <edge id="71" source="n24" target="n25" weight="10.0"/>
+      <edge id="72" source="n28" target="n29" weight="9.0"/>
+    </edges>
+  </graph>
+</gexf>
